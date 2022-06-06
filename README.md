@@ -1,5 +1,5 @@
 <img width="1000em" src="https://pbs.twimg.com/profile_banners/1205988892043882496/1639543214/1500x500">
-<h2 align="center" >Sup 🐒 I'm Guilherme</h2>
+ <h2 align="center" >- Sup 🐒<br> I'm Guilherme</h2>
 
 - 🔭 I’m currently studying on SPTECH 
 - 🐱‍👤 Gotta love front bro!
