@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on SPTECH Studying-ADS
 - 🐱‍👤 Gotta love front and mobile bro!
-- 🚴🏼  🏋🏼Working on Box Delivery
+- 🚴🏼  🏋🏼Working on Box Delivery as an Intern
 
 <div align="center">
   <a href="https://github.com/GuilhermeFGoncalves">
