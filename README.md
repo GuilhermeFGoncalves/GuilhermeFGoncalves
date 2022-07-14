@@ -5,6 +5,7 @@
 - 🐱‍👤 Gotta love front and mobile bro!
 - 🚴🏼  🏋🏼Working on Box Delivery as an Intern
 
+<img width="1000em" src="https://media-exp1.licdn.com/dms/image/C4D1BAQFwym7rAA_NQw/company-background_10000/0/1628012781903?e=1658408400&v=beta&t=5GbmH9XvfivipmffyyVlKhvyeLNOL2Vo8_e17itMrhU">
 <div align="center">
   <a href="https://github.com/GuilhermeFGoncalves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFGoncalves&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
