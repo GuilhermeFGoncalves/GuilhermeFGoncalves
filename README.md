@@ -1,9 +1,9 @@
 <img width="1000em" src="https://pbs.twimg.com/profile_banners/1205988892043882496/1639543214/1500x500">
- <h2 align="center" >- Sup 🐒<br> I'm Guilherme</h2>
+ <h2 align="center" >- Sup 🧛🏼‍♂️ <br> I'm Guilherme</h2>
 
-- 🔭 I’m currently studying on SPTECH 
-- 🐱‍👤 Gotta love front bro!
-
+- 🔭 I’m currently studying on SPTECH Studying-ADS
+- 🐱‍👤 Gotta love front and mobile bro!
+-🚴🏻 🏋🏼Working on Box Delivery
 <div align="center">
   <a href="https://github.com/GuilhermeFGoncalves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFGoncalves&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
