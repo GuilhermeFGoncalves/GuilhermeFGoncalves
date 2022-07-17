@@ -5,18 +5,21 @@
 - 🐱‍👤 Gotta love front and mobile bro!
 - 🚴🏼  🏋🏼Working on Box Delivery as an Intern
 
-<img width="1000em" src="https://media-exp1.licdn.com/dms/image/C4D1BAQFwym7rAA_NQw/company-background_10000/0/1628012781903?e=1658408400&v=beta&t=5GbmH9XvfivipmffyyVlKhvyeLNOL2Vo8_e17itMrhU">
 <div align="center">
   <a href="https://github.com/GuilhermeFGoncalves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFGoncalves&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFGoncalves&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFGoncalves&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFGoncalves&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
   ##
+  <img width="1000em" align="center" src="https://scontent.fcgh17-1.fna.fbcdn.net/v/t39.30808-6/232508665_4540267512726880_3982548562558513438_n.png?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEjPOrnZuyW8yHNWSZUdnFwAtLtxnJCZEEC0u3GckJkQQq7Ymf2eeJoisCWo5q-xVuvVX424uJOFGlGH9j22pDj&_nc_ohc=d0eLCIuGu6oAX_8PkpR&tn=leiQ3GUZ4FHPu9kT&_nc_ht=scontent.fcgh17-1.fna&oh=00_AT_hLCjtSXjZaYnLQ0y6L1pTPuEB1IwmGX_z8pKynTQkww&oe=62D9049B">
+ <br>
+ <br>
  
 <div align="center"> 
  
@@ -29,4 +32,5 @@
 ](https://www.linkedin.com/in/guilherme-ferreira-gon%C3%A7alves-706024245/)
  
   </div>
+
    
