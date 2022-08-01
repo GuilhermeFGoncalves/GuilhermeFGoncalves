@@ -21,7 +21,7 @@
  <br>
  <br>
  
-<div align="center"> 
+<div align="center"> <img align="right" src="https://c.tenor.com/0clyyAiSLvoAAAAC/hxh-killua.gif" width="150px">
  
  <a href="https://discordapp.com/users/339781213378183168/" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "guilhermegfg2002@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,7 +29,7 @@
       <a href = "https://www.instagram.com/_guignl/"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/guilherme-ferreira-gon%C3%A7alves-706024245/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  [
-](https://www.linkedin.com/in/guilherme-ferreira-gon%C3%A7alves-706024245/)<img align="right" src="https://c.tenor.com/0clyyAiSLvoAAAAC/hxh-killua.gif" width="150px">
+](https://www.linkedin.com/in/guilherme-ferreira-gon%C3%A7alves-706024245/)
  
   </div>
   
