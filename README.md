@@ -1,4 +1,4 @@
-<img width="1000em" src="https://pbs.twimg.com/profile_banners/1205988892043882496/1639543214/1500x500">
+<img width="1000em" src="https://64.media.tumblr.com/a5427790cc58668f82ba66727fe4633b/91f0d053211afe48-30/s1280x1920/07bc2ffae3c7e726104130ef7c27fe5e0b756a75.jpg">
  <h2 align="center" >- Sup 🧛🏼‍♂️ <br> I'm Guilherme</h2>
 
 - 🔭 I’m currently studying on SPTECH Studying-ADS
