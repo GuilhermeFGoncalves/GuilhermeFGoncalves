@@ -5,11 +5,13 @@
 - 🐱‍👤 Gotta love front and mobile bro!
 - 🚴🏼  🏋🏼Working on Box Delivery as an Intern
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/GuilhermeFGoncalves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFGoncalves&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFGoncalves&layout=compact&langs_count=7&theme=graywhite"/>
-</div>-->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFGoncalves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFGoncalves&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<br>
+<br>
 <img src="https://activity-graph.herokuapp.com/graph?username=GuilhermeFGoncalves&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11">
 <div align="center" style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
