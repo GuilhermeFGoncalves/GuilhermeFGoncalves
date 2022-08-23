@@ -2,7 +2,7 @@
  <h2 align="center" >- Sup 🧛🏼‍♂️ <br> I'm Guilherme</h2>
 
 - 🔭 I’m currently studying on SPTECH Studying-ADS
-- 🐱‍👤 Gotta love front and mobile bro!
+- 🐱‍👤 Gotta love back-end  and mobile bro!
 - 🚴🏼  🏋🏼Working on Box Delivery as an Intern
 
 <div align="center">
