@@ -20,6 +20,13 @@
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=000000">
+     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">
+     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=000000">
+     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=000000">
+     
+     
   
 
  <br>
